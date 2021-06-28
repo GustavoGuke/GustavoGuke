@@ -1,5 +1,10 @@
 ### Here we go :bug:
 
+> Hello people this text was put in google translator, I do not speak English, I have what people speak technical English ... rsrs
+
+> I'm from Brazil, I'm twenty-six years old.
+
+>Graduated in Computer Science in 2020 from Uninove College.
 <!--
 **GustavoGuke/GustavoGuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
