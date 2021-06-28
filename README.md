@@ -7,7 +7,7 @@
 > Graduated in Computer Science in 2020 from Uninove College. :man_student:
 
 > I made the famous hello-world in several languages, but today my focus is on javaScript
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+> <img width="40" heigth="30" src=""https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 <!--
 **GustavoGuke/GustavoGuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
